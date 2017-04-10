@@ -1,0 +1,16 @@
+{
+  "name": "odd-occurencies-in-array",
+  "version": "1.0.0",
+  "description": "codility lesson 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec/",
+    "start": "node index.js"
+  },
+  "author": "emrah soytekin",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^1.14.5",
+    "require": "^2.4.20"
+  }
+}

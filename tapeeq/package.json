@@ -1,0 +1,14 @@
+{
+  "name": "tapeeq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tape.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
