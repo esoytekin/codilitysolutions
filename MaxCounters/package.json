@@ -1,0 +1,15 @@
+{
+  "name": "max-counters",
+  "version": "1.0.0",
+  "description": "Codility Lesson 4",
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "author": "emrah soytekin",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.8.0",
+    "require": "^2.4.20"
+  }
+}
